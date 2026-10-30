@@ -1,0 +1,14 @@
+for_window [app_id="gwenview"] floating enable, resize set 1355 693, move position center
+for_window [app_id="^com\.system76\.CosmicSettings$"] floating enable, resize set 1000 600, move position center
+for_window [app_id="^com\.system76\.CosmicFilesDialog$"] floating enable, resize set 1000 600, move position center
+# for_window [app_id="^floating-terminal"] floating enable, resize set 800 600, move position center
+# for_window [app_id="^imv"] floating enable, move position center
+for_window [app_id="^mpv"] floating enable, resize set 1280 720, move position center
+for_window [app_id="^pi-llm"] floating enable, resize set 800 600, move position center
+for_window [app_id="fsel-launcher"] floating enable, resize set width 500 height 430, move position center
+for_window [app_id="clipboard"] floating enable, resize set width 500 height 730, move position center
+for_window [app_id="yazi"] floating enable, resize set 1200 600, move position center
+for_window [app_id="floating-terminal"] floating enable, resize set 800 600, move position center
+for_window [app_id="music-tui"] floating enable, resize set 800 600, move position center
+for_window [app_id="com.system76.CosmicFiles"] floating enable, set 800 600, move position center
+for_window [app_id="com.system76.CosmicEdit"] floating enable, set 800 600, move position center

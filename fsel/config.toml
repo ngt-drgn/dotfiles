@@ -1,0 +1,6 @@
+[cclip]
+image_preview = true
+
+[app_launcher]
+ranking_mode = "frequency"
+hide_before_typing = true

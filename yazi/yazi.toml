@@ -1,0 +1,12 @@
+[mgr]
+ratio = [1, 2, 3]
+
+[preview]
+wrap = "yes"
+
+[open]
+prepend_rules = [
+    { url = "*.zip", use = ["extract"] },
+    { mime = "application/zip", use = ["extract"] },
+    { mime = "application/octet-stream", use = ["extract"] },
+]
